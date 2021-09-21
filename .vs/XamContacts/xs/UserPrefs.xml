@@ -1,6 +1,35 @@
 ﻿<Properties StartupConfiguration="{C58149E6-34F2-4B0C-ABC4-F2A768FE13C1}|Default">
   <MonoDevelop.Ide.ItemProperties.XamContacts FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.XamContacts.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.XamContacts.Android FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamContacts.iOS/Info.plist">
+    <Files>
+      <File FileName="XamContacts/ViewModels/MainViewModel.cs" Line="4" Column="47" />
+      <File FileName="XamContacts/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="XamContacts/MainPage.xaml" Line="10" Column="1" />
+      <File FileName="XamContacts.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamContacts" expanded="True">
+            <Node name="XamContacts" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="XamContacts.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XamContacts.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
